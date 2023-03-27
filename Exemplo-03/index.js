@@ -1,3 +1,4 @@
+//Soma
 let numero01,numero02, soma;
 
 numero01 = prompt("Digite o número 1: ");

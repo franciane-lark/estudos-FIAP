@@ -1,9 +1,9 @@
 //Calculo imc
 let peso, altura, calculoImc;
 
-peso = prompt("Digite sua altura: ");
+altura = prompt("Digite sua altura: ");
 
-altura = prompt("Digite seu peso: ");
+peso = prompt("Digite seu peso: ");
 
 calculoImc = peso / (altura ** 2);
 
